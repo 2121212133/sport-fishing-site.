@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Спортивная рыбалка</title>
+    <link rel="stylesheet" href="styles.css">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #0066cc;
+            color: white;
+            padding: 15px 0;
+            text-align: center;
+        }
+        nav ul {
+            list-style: none;
+            padding: 0;
+        }
+        nav ul li {
+            display: inline;
+            margin: 0 15px;
+        }
+        nav ul li a {
+            color: white;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        section {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background: white;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        footer {
+            text-align: center;
+            padding: 15px;
+            background-color: #0066cc;
+            color: white;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Спортивная рыбалка</h1>
+        <nav>
+            <ul>
+                <li><a href="#competitions">Соревнования</a></li>
+                <li><a href="#reviews">Обзоры снастей</a></li>
+                <li><a href="#lifehacks">Лайфхаки</a></li>
+                <li><a href="#articles">Статьи</a></li>
+                <li><a href="#beginners">Советы новичкам</a></li>
+                <li><a href="#gallery">Галерея</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section id="competitions">
+        <h2>Соревнования</h2>
+        <p>Здесь будут новости о предстоящих и прошедших турнирах.</p>
+    </section>
+    
+    <section id="reviews">
+        <h2>Обзоры снастей</h2>
+        <p>Подробные обзоры удочек, катушек, приманок и другой экипировки.</p>
+    </section>
+    
+    <section id="lifehacks">
+        <h2>Лайфхаки</h2>
+        <p>Полезные советы и хитрости для успешной рыбалки.</p>
+    </section>
+    
+    <section id="articles">
+        <h2>Статьи</h2>
+        <p>Интересные материалы о спортивной рыбалке, технике ловли и секретах успешного улова.</p>
+    </section>
+    
+    <section id="beginners">
+        <h2>Советы новичкам</h2>
+        <p>Руководство для тех, кто только начинает заниматься спортивной рыбалкой: выбор снастей, основные техники и распространенные ошибки.</p>
+    </section>
+    
+    <section id="gallery">
+        <h2>Галерея</h2>
+        <p>Фотографии и видео с рыбалки.</p>
+    </section>
+    
+    <footer>
+        <p>&copy; 2025 Спортивная рыбалка. Все права защищены.</p>
+    </footer>
+</body>
+</html>
+
+
+Я добавил стили, чтобы сайт выглядел аккуратно и красиво.
+
+Теперь нужно выбрать, где его опубликовать. Для бесплатного размещения лучше всего подойдет GitHub Pages или Vercel. У тебя есть аккаунт на GitHub? Если нет, нужно создать его.
+
